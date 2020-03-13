@@ -1,1 +1,1 @@
-# Box-Maker
+# Box Class
